@@ -1,8 +1,10 @@
 -- Theme
-lvim.colorscheme = "gruvbox-material"
-vim.g.gruvbox_material_background = "hard"
+lvim.colorscheme = "everforest"
+vim.g.everforest_background = "hard"
+-- lvim.colorscheme = "g"
+-- vim.g.gruvbox_material_background = "hard"
 
-lvim.transparent_window = false
+lvim.transparent_window = true
 
 
 local options = {
