@@ -47,7 +47,7 @@
       "#include <iostream>",
       "#include <string>",
       "#include <vector>",
-      "#include <algorithm>"
+      "#include <algorithm>",
       "using namespace std;",
       "",
       "#define FOR(i, start, end) for (int i = (start); i < (end); i++)",
